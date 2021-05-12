@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlemeniteM
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning wed devlopement using MERN 
+- 🌱 I’m currently learning web devlopement using MERN 
 - 💞️ I’m looking to collaborate on Javascript related projects
 - 📫 How to reach me ...
 
