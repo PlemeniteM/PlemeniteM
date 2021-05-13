@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PlemeniteM
+- 👋 Hi, I’m Ritik Malik a.k.a PlemeniteM
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning web devlopement using MERN 
 - 💞️ I’m looking to collaborate on Javascript related projects
